@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello World! 
 
-<!--
-**denise-hk/denise-hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Denise 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Game Programming Student | Architecture Background
+
+- I’m currently working on horror game for a small studio based in stockholm.
+- I’m currently learning C++
+- I’m looking to collaborate on game projects where I can learn more about gameplay programming, level design, and interactive systems.
+
+### 🐈 Fun Fact
+
+<!-- CAT_FACT_START -->
+Loading today's cat fact...
+<!-- CAT_FACT_END -->
+
+## Languages & Tools
+
+C++ • C# • Unity • Unreal Engine • Raylib • Blueprints • Git
+
+##  Connect with me
+
+🌐 Portfolio: denisehannakassab.com  
+💼 LinkedIn: linkedin.com/in/denise-hannakassab<!--
