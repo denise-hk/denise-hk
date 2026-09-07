@@ -21,9 +21,9 @@ C++ • C# • Unity • Unreal Engine • Raylib • Blueprints • Git
 
 ##  Connect with me
 <a href="https://denisehannakassab.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-c9e265?style=for-the-badge" alt="Portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO-c9e265?style=for-the-badge" alt="Portfolio">
 </a>
 
 <a href="https://linkedin.com/in/denise-hannakassab">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
