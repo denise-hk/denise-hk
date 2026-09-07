@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-Loading today's cat fact...
+> 🐾 A cat has two vocal chords, and can make over 100 sounds.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
