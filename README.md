@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A cat has two vocal chords, and can make over 100 sounds.
+> 🐾 Cats are North America’s most popular pets: there are 73 million cats compared to 63 million dogs. Over 30% of households in North America own a cat.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
