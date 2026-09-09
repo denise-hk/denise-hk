@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats are North America’s most popular pets: there are 73 million cats compared to 63 million dogs. Over 30% of households in North America own a cat.
+> 🐾 The cat appears to be the only domestic companion animal not mentioned in the Bible.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
