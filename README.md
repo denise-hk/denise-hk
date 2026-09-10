@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The cat appears to be the only domestic companion animal not mentioned in the Bible.
+> 🐾 A cat can sprint at about thirty-one miles per hour.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
