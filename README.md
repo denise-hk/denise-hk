@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A cat can sprint at about thirty-one miles per hour.
+> 🐾 The first true cats came into existence about 12 million years ago and were the Proailurus.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
