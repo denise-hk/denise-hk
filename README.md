@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 In Japan, cats are thought to have the power to turn into super spirits when they die. This may be because according to the Buddhist religion, the body of the cat is the temporary resting place of very spiritual people.i
+> 🐾 There are up to 60 million feral cats in the United States alone.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
