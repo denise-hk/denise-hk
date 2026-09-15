@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 There are up to 60 million feral cats in the United States alone.
+> 🐾 The average cat food meal is the equivalent to about five mice.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
