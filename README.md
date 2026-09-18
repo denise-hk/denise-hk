@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months.
+> 🐾 Unlike humans, cats do not need to blink their eyes on a regular basis to keep their eyes lubricated.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
