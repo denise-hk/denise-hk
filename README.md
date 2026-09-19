@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Unlike humans, cats do not need to blink their eyes on a regular basis to keep their eyes lubricated.
+> 🐾 Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
