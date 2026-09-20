@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats have 30 vertebrae (humans have 33 vertebrae during early development; 26 after the sacral and coccygeal regions fuse)
+> 🐾 The name "jaguar" comes from a Native American word meaning "he who kills with one leap".
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
