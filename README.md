@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The name "jaguar" comes from a Native American word meaning "he who kills with one leap".
+> 🐾 Relative to its body size, the clouded leopard has the biggest canines of all animals’ canines. Its dagger-like teeth can be as long as 1.8 inches (4.5 cm).
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
