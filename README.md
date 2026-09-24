@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The Pilgrims were the first to introduce cats to North America.
+> 🐾 A healthy cat has a temperature between 38 and 39 degrees Celcius.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
