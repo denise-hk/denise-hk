@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A healthy cat has a temperature between 38 and 39 degrees Celcius.
+> 🐾 The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
