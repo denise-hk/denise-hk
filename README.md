@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.
+> 🐾 A cat has 230 bones in its body. A human has 206. A cat has no collarbone, so it can fit through any opening the size of its head.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
