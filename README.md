@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A cat has 230 bones in its body. A human has 206. A cat has no collarbone, so it can fit through any opening the size of its head.
+> 🐾 Unlike humans, cats are usually lefties. Studies indicate that their left paw is typically their dominant paw.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
