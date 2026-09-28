@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Unlike humans, cats are usually lefties. Studies indicate that their left paw is typically their dominant paw.
+> 🐾 A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
