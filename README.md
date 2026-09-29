@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.
+> 🐾 The first cat show was in 1871 at the Crystal Palace in London.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
