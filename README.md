@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The first cat show was in 1871 at the Crystal Palace in London.
+> 🐾 A cat has more bones than a human; humans have 206, but the cat has 230 (some cites list 245 bones, and state that bones may fuse together as the cat ages).
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
