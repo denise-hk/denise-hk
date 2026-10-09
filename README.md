@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The smallest wildcat today is the Black-footed cat. The females are less than 20 inches (50 cm) long and can weigh as little as 2.5 lbs (1.2 kg).
+> 🐾 The longest living cat on record according to the Guinness Book belongs to the late Creme Puff of Austin, Texas who lived to the ripe old age of 38 years and 3 days!
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
