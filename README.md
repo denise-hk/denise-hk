@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The longest living cat on record according to the Guinness Book belongs to the late Creme Puff of Austin, Texas who lived to the ripe old age of 38 years and 3 days!
+> 🐾 Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
