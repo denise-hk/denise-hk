@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats respond better to women than to men, probably due to the fact that women's voices have a higher pitch.
+> 🐾 A cat will tremble or shiver when it is extreme pain.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
