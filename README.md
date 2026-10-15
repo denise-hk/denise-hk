@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The first cat show was in 1871 at the Crystal Palace in London.
+> 🐾 A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
