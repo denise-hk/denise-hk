@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+> 🐾 Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
