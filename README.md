@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The Maine Coon cat is America's only natural breed of domestic feline. It is 4 to 5 times larger than the Singapura, the smallest breed of cat.
+> 🐾 Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
