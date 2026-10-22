@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.
+> 🐾 A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
