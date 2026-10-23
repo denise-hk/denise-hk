@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A female cat will be pregnant for approximately 9 weeks or between 62 and 65 days from conception to delivery.
+> 🐾 Both humans and cats have identical regions in the brain responsible for emotion.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
