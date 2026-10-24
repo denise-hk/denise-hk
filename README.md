@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Both humans and cats have identical regions in the brain responsible for emotion.
+> 🐾 A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
