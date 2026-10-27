@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats' eyes shine in the dark because of the tapetum, a reflective layer in the eye, which acts like a mirror.
+> 🐾 Researchers are unsure exactly how a cat purrs. Most veterinarians believe that a cat purrs by vibrating vocal folds deep in the throat. To do this, a muscle in the larynx opens and closes the air passage about 25 times per second.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
