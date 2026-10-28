@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Researchers are unsure exactly how a cat purrs. Most veterinarians believe that a cat purrs by vibrating vocal folds deep in the throat. To do this, a muscle in the larynx opens and closes the air passage about 25 times per second.
+> 🐾 The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
