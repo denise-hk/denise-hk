@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.
+> 🐾 Cats, just like people, are subject to asthma. Dust, smoke, and other forms of air pullution in your cat's environment can be troublesome sources of irritation.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
