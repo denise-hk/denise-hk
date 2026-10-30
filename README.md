@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats, just like people, are subject to asthma. Dust, smoke, and other forms of air pullution in your cat's environment can be troublesome sources of irritation.
+> 🐾 Cats make about 100 different sounds. Dogs make only about 10.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
