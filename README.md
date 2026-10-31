@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats make about 100 different sounds. Dogs make only about 10.
+> 🐾 Many cats love having their forehead gently stroked.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
