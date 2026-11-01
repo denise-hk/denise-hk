@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Many cats love having their forehead gently stroked.
+> 🐾 A cat’s hearing is better than a dog’s. And a cat can hear high-frequency sounds up to two octaves higher than a human.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
