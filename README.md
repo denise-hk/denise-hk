@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Normal body temperature for a cat is 102 degrees F.
+> 🐾 The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
