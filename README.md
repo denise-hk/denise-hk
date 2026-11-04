@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.
+> 🐾 Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
