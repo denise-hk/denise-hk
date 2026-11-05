@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.
+> 🐾 A cat's brain is more similar to a man's brain than that of a dog.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
