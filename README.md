@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A cat's brain is more similar to a man's brain than that of a dog.
+> 🐾 The cat's tail is used to maintain balance.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
