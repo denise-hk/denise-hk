@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The cat's tail is used to maintain balance.
+> 🐾 Approximately 40,000 people are bitten by cats in the U.S. annually.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
