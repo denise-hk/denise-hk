@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 During the Middle Ages, cats were associated with withcraft, and on St. John’s Day, people all over Europe would stuff them into sacks and toss the cats into bonfires. On holy days, people celebrated by tossing cats from church towers.
+> 🐾 There are approximately 60,000 hairs per square inch on the back of a cat and about 120,000 per square inch on its underside.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
