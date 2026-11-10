@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 There are approximately 60,000 hairs per square inch on the back of a cat and about 120,000 per square inch on its underside.
+> 🐾 A cat's hearing is much more sensitive than humans and dogs.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
