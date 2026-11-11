@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A cat's hearing is much more sensitive than humans and dogs.
+> 🐾 Cats have been domesticated for half as long as dogs have been.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
