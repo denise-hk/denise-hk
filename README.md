@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats have been domesticated for half as long as dogs have been.
+> 🐾 Cats control the outer ear using 32 muscles; humans use 6
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
