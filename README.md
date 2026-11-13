@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats control the outer ear using 32 muscles; humans use 6
+> 🐾 A group of cats is called a clowder.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
