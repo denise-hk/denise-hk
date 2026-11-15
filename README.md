@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog.
+> 🐾 The cat who holds the record for the longest non-fatal fall is Andy. He fell from the 16th floor of an apartment building (about 200 ft/.06 km) and survived.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
