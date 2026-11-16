@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 The cat who holds the record for the longest non-fatal fall is Andy. He fell from the 16th floor of an apartment building (about 200 ft/.06 km) and survived.
+> 🐾 Approximately 1/3 of cat owners think their pets are able to read their minds.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
