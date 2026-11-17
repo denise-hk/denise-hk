@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Approximately 1/3 of cat owners think their pets are able to read their minds.
+> 🐾 Cats can judge within 3 inches the precise location of a sound being made 1 yard away.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
