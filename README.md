@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats can judge within 3 inches the precise location of a sound being made 1 yard away.
+> 🐾 Blue-eyed, white cats are often prone to deafness.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
