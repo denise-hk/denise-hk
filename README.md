@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Blue-eyed, white cats are often prone to deafness.
+> 🐾 According to a Gallup poll, most American pet owners obtain their cats by adopting strays.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
