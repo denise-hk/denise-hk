@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 According to a Gallup poll, most American pet owners obtain their cats by adopting strays.
+> 🐾 Baking chocolate is the most dangerous chocolate to your cat.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
