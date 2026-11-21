@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Baking chocolate is the most dangerous chocolate to your cat.
+> 🐾 In multi-cat households, cats of the opposite sex usually get along better.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
