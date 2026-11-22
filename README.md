@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 In multi-cat households, cats of the opposite sex usually get along better.
+> 🐾 Cats see six times better in the dark and at night than humans.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
