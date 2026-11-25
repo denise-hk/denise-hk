@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 British cat owners spend roughly 550 million pounds yearly on cat food.
+> 🐾 A group of cats is called a “clowder.”
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
