@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 A group of cats is called a “clowder.”
+> 🐾 Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
