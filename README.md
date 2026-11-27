@@ -12,7 +12,7 @@ I'm Denise
 ### 🐈 Fun Fact
 
 <!-- CAT_FACT_START -->
-> 🐾 Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
+> 🐾 According to a Gallup poll, most American pet owners obtain their cats by adopting strays.
 <!-- CAT_FACT_END -->
 
 ## Languages & Tools
